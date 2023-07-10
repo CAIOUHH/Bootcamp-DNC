@@ -292,4 +292,13 @@ body{
         .checkbox-items label{
             font-size: 15px;
         }
+
+        footer .linha1{
+            flex-direction: column;
+        }
+
+        footer .endereço{
+            width: 90%;
+            margin-bottom: 20px;
+        }
     }
